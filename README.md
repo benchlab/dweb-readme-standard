@@ -9,6 +9,7 @@ This area is reserved for a short description of the dWeb library, protocol, dec
 
 - [Background](#background)
 - [Installation](#installation)
+- [Terms](#terms)
 - [Usage](#usage)
 - [API](#api)
 - [Related Projects](#related-projects)
