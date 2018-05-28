@@ -20,8 +20,8 @@ dpack add dweb-library-name
 ```
 
 ## Terms
-termOne - Short description for termOne.
-termTwo - Short description for termTwo.
+- termOne - Short description for termOne. 
+- termTwo - Short description for termTwo.
 
 ## Usage
 
