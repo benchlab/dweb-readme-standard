@@ -1,10 +1,9 @@
 # dWeb Library Name
 
+
+[![dWebShield-Official](https://img.shields.io/badge/DWEB-Official-brightgreen.svg)](https://https://github.com/benchlab/dweb)[![dWebShield-Auth](https://img.shields.io/badge/DWEB-Auth-brightgreen.svg)](https://https://github.com/benchlab/dweb)
 [![dWebShield](https://github.com/benchlab/dweb-shields/blob/master/shields/dweb-protocol-shield.svg)](https://https://github.com/benchlab/dweb)
 
-[![dWebShield-Official](https://img.shields.io/badge/DWEB-Official-brightgreen.svg)](https://https://github.com/benchlab/dweb)
-
-[![dWebShield-Auth](https://img.shields.io/badge/DWEB-Auth-brightgreen.svg)](https://https://github.com/benchlab/dweb)
 
 This area is reserved for a short description of the decentralized website or decentralized application you are launching on the dWeb.
 
