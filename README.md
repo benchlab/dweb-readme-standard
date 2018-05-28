@@ -12,6 +12,12 @@ This area is reserved for a short description of the decentralized website or de
 ```
 npm i --save dweb-library-name
 ```
+```
+yarn add dweb-library-name
+```
+```
+dpack add dweb-library-name
+```
 
 ## Terms
 termOne - Short description for termOne.
