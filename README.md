@@ -5,7 +5,22 @@
 [![dWebShield](https://github.com/benchlab/dweb-shields/blob/master/shields/dweb-protocol-shield.svg)](https://https://github.com/benchlab/dweb)
 
 
-This area is reserved for a short description of the decentralized website or decentralized application you are launching on the dWeb.
+This area is reserved for a short description of the dWeb library, protocol, decentralized website or decentralized application you are launching on the dWeb.
+
+## Table of Contents
+
+- [Background](#background)
+- [Installation](#installation)
+- [Usage](#usage)
+- [API](#api)
+- [Related Projects](#related-projects)
+- [Why Decentralized Internet](#why-the-internet-must-have-a-decentralized-alternative)
+- [Bench On The dWeb](#bench-on-the-dweb)
+- [License](#license)
+- [Copyright](#license)
+
+## Background
+Here we describe the background behind the library, protocol, website or application this README is connected to. It can be between 3-4 sentences but shouldn't be too long. 
 
 ## Installation
 
@@ -97,7 +112,7 @@ Today, the internet is more censored than ever and it's only getting worse. Our 
 
 and more! These were the protocols and libraries that we needed to create a completely decentralized operating system, where everything was distributed, protected and people were once again in control of their data. benOS is made up of over 1100+ different libraries that we are releasing on a day-by-day basis as we move them to a stable/production state. While financial support is great for this open source project, we need to developers who want to be the first to build the `dApps` and `dSites` of the future. We have to take back what our forefathers originally designed for freedom, by making our code the law, instead of weak and highly centralized applications where law can be applied because the code lacked the foundation to implement the law itself. Join us for a truly historic journey on the [BenchLabs Telegram](https://t.me/benchlabs). See you there. 
 
-### Check Out Bench On The dWeb:
+### Bench On The dWeb
 [dweb://bench.dnames.io](dweb://bench.dnames.io) // dNames Short Link 
 [dweb://3EDAE09848B77401445B7739CAFCE442DDE1752AED63025A1F94E6A86D7E9F04](dweb://3EDAE09848B77401445B7739CAFCE442DDE1752AED63025A1F94E6A86D7E9F04) // dWeb Key Link 
 
