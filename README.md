@@ -116,6 +116,8 @@ and more! These were the protocols and libraries that we needed to create a comp
 [dweb://bench.dnames.io](dweb://bench.dnames.io) // dNames Short Link 
 [dweb://3EDAE09848B77401445B7739CAFCE442DDE1752AED63025A1F94E6A86D7E9F04](dweb://3EDAE09848B77401445B7739CAFCE442DDE1752AED63025A1F94E6A86D7E9F04) // dWeb Key Link 
 
+In order to make the links above clickable or to view these links period, you will need [dBrowser](https://github.com/benchlab/dbrowser) (Available for Mac OSX, Linux, Windows and soon to be available on iOS/Android)
+
 #### "The Code Is The Law" - Stan Larimer - Godfather of BitShares.
 
 ## License
