@@ -44,7 +44,9 @@ dWeb Library Code Here
 
 ```
 
-## API [Only For Libraries w/ APIs]
+## API 
+**Note:** If your library or repository doesn't have any sort of API, this section can be deleted. Don't forget to remove from the table of contents. 
+
 #### `var vault = ddrive(dstorage, [dkey], [options])`
 
 This is a description of what it does.
